@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/webtruyen/.vs/webtruyen/FileContentIndex/1d8fb571-9709-499c-aeb4-d006c5294f93.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/334832e3-deb5-4dde-a230-82de29655730.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/57e45243-6bfc-4ca1-b4e6-0eb6713dd624.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/e866c793-9d95-4a7a-ae90-df7812b0d7e6.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/fda89f45-677b-43bb-8ea4-5dbc661e5377.vsidx
+/webtruyen/obj/Debug/net8.0
+/webtruyen/.vs/webtruyen/FileContentIndex/912d261f-8a3e-438b-a8fe-efbc0e26cb7a.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/b838196d-faa8-4ff4-85e8-2a6017811eb3.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/b8eb5d04-939f-4db7-8dcc-5af3f4210e6c.vsidx
+/webtruyen/.vs/webtruyen/FileContentIndex/eb27fbee-b214-4b3c-b04c-ed40b75a055d.vsidx
+/WebTruyenFE/node_modules
+/node_modules
+*.dll
+/webtruyen/.vs/webtruyen/FileContentIndex/0b3ea0a4-7ac1-487f-beab-379b471fcf74.vsidx
+*.vsidx

@@ -1,0 +1,6 @@
+@webtruyen_HostAddress = http://localhost:5065
+
+GET {{webtruyen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
